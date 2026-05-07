@@ -1,0 +1,11 @@
+OrderID,CustomerName,Location,FoodItem,Quantity,Price,OrderTime
+1,Arun,Chennai,Burger,2,250,09:15
+2,Ravi,Coimbatore,Pizza,1,450,13:20
+3,Meena,Erode,Dosa,3,180,08:30
+4,Suresh,Salem,Biryani,2,400,21:10
+5,Priya,Chennai,Pizza,1,450,19:45
+6,Kumar,Erode,Burger,1,125,18:15
+7,Anu,Coimbatore,Fried Rice,2,300,20:20
+8,Divya,Salem,Biryani,1,200,22:10
+9,Vijay,Chennai,Dosa,2,120,07:50
+10,Ram,Erode,Pizza,3,1350,14:40
